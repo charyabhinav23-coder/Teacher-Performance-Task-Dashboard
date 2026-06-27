@@ -30,3 +30,7 @@
     "vite": "^8.0.12"
   }
 }
+"supportedArchitectures": {
+  "os": ["current", "linux"],
+  "cpu": ["current", "x64"]
+}
